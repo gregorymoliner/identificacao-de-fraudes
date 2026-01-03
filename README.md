@@ -10,7 +10,7 @@ Ele pode ser obtido em: [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 ### Descrição do Dataset
 O conjunto de dados utilizado neste projeto contém transações realizadas com cartões de crédito por titulares europeus durante o mês de setembro de 2013. As transações ocorreram em um intervalo de apenas dois dias e totalizam 284.807 registros, dos quais 492 correspondem a fraudes, caracterizando um cenário de extremo desbalanceamento entre as classes.
 
-![Distribuição das Classes](relatorios\imagens\imagemdistribuicaoclasses.png)
+![Distribuição das Classes](relatorios/imagens/imagemdistribuicaoclasses.png)
 
 Projeto desenvolvido para fins educacionais e experimentação em Machine Learning aplicado à detecção de fraudes.
 
